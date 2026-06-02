@@ -1,6 +1,6 @@
 # Hi, I'm Sreejith 👋
 
-**Senior Software Engineer at [Spread Group](https://www.spread-group.com/), Leipzig, Germany.**
+**Senior Software Engineer at [Spread Group](https://www.spreadgroup.com/), Leipzig, Germany.**
 
 Backend-focused full-stack engineer with 18+ years of experience building scalable, distributed systems. I currently work on Kotlin and Spring Boot microservices powering checkout and fulfillment workflows for B2C, B2B and B2B2C customers. Before relocating to Germany, I spent a decade at Nasdaq leading teams building SaaS trade-workflow and investor-relations platforms deployed across global markets.
 
