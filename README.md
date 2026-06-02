@@ -43,7 +43,7 @@ Take a look at my pinned repositories below — they show how I structure a Spri
 
 ### 📫 Get in touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sreejithputhenpurayilsukumaran/)
 - 📧 eusree@gmail.com
 - 📍 Open to backend / full-stack engineering roles in Germany
 
